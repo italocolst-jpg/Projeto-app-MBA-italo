@@ -1,0 +1,6 @@
+{
+  "name": "Aventura Pixel — O Reino Perdido",
+  "description": "Jogo de aventura e plataforma 2D em pixel art protagonizado por Italo na Floresta Encantada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
